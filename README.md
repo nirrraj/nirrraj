@@ -1,6 +1,6 @@
 ### Hi, I'm Niraj 👋
 
-I have a background in e-commerce and web development. I'm currently a graduate student working toward a master's degree in Business Administration (MBA).
+I have a background in e-commerce and web development. I'm currently a graduate student working toward a master's degree in Business Administration (MBA) at the University of South Florida in Tampa, FL.
 
 Currently my GitHub repositories include educational and personal projects for practice and continual skill development.
 
