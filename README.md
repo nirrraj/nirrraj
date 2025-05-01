@@ -1,9 +1,15 @@
 ### Hi, I'm Niraj 👋
 
-I have a professional background in e-commerce and web development. I'm currently a graduate student working toward a master's degree in Business Administration (MBA) at the University of South Florida in Tampa, FL.
+I'm interested in the intersection of people and technology. I enjoy bridging digital and real-world experiences, developing systems of human-machine collaboration to do so. [Connect with me on LinkedIn](https://www.linkedin.com/in/its-niraj-singh/).
 
-My GitHub repositories include educational and personal projects for practice and continual skill development.
+My current professional focus areas include:
 
-- 📚 Experienced with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express**, **Python**, **Flask**, **PostgreSQL**, **Google Apps Script**, **Data Analytics**
-- 🔍 I'm interested in web/software development, e-commerce content and technical development, information systems management.
-- 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/its-niraj-singh
+🌐 Web & app development
+
+📊 Digital marketing & analytics
+
+🤖 Automation, machine learning & AI
+
+🎨 Digital media design
+
+🚀 Strategy & entrepreneurship
