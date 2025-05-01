@@ -4,12 +4,8 @@ I'm interested in the intersection of people and technology. I enjoy bridging di
 
 My current professional focus areas include:
 
-🌐 Web & app development
-
-📊 Digital marketing & analytics
-
-🤖 Automation, machine learning & AI
-
-🎨 Digital media design
-
-🚀 Strategy & entrepreneurship
+    🌐 Web & app development
+    📊 Digital marketing & analytics
+    🤖 Automation, machine learning & AI
+    🎨 Digital media design
+    🚀 Strategy & entrepreneurship
