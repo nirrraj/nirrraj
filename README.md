@@ -6,7 +6,7 @@ I'm interested in the intersection of people and technology. I enjoy bridging di
 
 My current professional focus areas include:
 
-🌐 Ecommerce & web app development  
+🌐 Ecommerce, web & app development  
 📊 Digital marketing & analytics  
 🤖 Automation, machine learning & AI  
 🎨 Digital media design  
