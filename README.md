@@ -10,4 +10,4 @@ My current professional focus areas include:
 📊 Digital marketing & analytics  
 🤖 Automation, machine learning & AI  
 🎨 Digital media design  
-🚀 Strategy & entrepreneurship
+🚀 Entrepreneurship & small business development
